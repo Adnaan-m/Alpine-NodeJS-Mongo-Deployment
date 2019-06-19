@@ -1,1 +1,0 @@
-# Alpine-NodeJS-Mongo-Deployment
