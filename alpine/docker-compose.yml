@@ -12,7 +12,7 @@ services:
     restart: always
   app:
     build: ./
-    image: 7677/alpineplatform
+    image: 7677/alpineplatform:v1
     ports:
       - "4000:4000"
     restart: always
